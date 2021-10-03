@@ -4,3 +4,4 @@
 comentários com mais de uma linha*/
 
 console.log("Bem vindos ao Starter");
+console.log("Teste");
