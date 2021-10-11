@@ -75,3 +75,4 @@ students = [student, john];*/
 /*9. Sem rodar o código responda qual é a resposta do código abaixo e por que. Após sua resposta, rode o código e veja se você acertou.*/
 console.log(a);
 var a = 1;
+//undefined
